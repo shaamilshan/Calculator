@@ -32,7 +32,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: "Poppins",serif;
+    
+    
 }
 .input-box{
     width: 70%;
@@ -63,6 +64,7 @@ input:focus{
     border: none;
     font-size: 32px;
     font-size: 18px;
+    font-family: "Poppins";
 }
 .grid-container{
     display: grid;
@@ -83,6 +85,7 @@ input:focus{
     font-size: 18px;
     background: orange;
     color: black;
+    font-family: "Poppins";
 }
 
 .calculator-button-fnc:hover{
